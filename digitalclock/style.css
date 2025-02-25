@@ -1,0 +1,22 @@
+body{
+   
+ margin: 0;  
+}
+#clock-container{
+    display: flex;
+    justify-content: center;
+    height: 90vh;
+    align-items: center;
+    background-image: url(./assets/france.png); 
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    
+}
+#clock{
+    font-family: monospace;
+    font-size: 35px;
+    font-weight: 600;
+    color: rgb(6, 40, 60);
+
+}
